@@ -33,7 +33,7 @@ export const Video:FC<VideoProps> = ({id}) => {
     
     return (
         <div>
-            <video src="">video</video>
+            
             <h1>{data?.lessons.title}</h1>
             <span>{data?.lessons.description}</span>
             <div>
